@@ -3,7 +3,7 @@ local payload = {
 	[1] = 'Accessory',
 	[2] = handle,
 	[3] = true,
-	[4] = game,
+	[4] = workspace,
 	[5] = '',
 	[6] = ''
 }
